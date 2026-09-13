@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 64" role="img" aria-labelledby="title">
+  <title id="title">RS School logo</title>
+  <rect width="160" height="64" fill="none"/>
+  <g fill="#ffffff">
+    <path d="M8 8h28c13 0 21 6 21 17 0 8-4 13-11 16l14 15H42L30 43H23v13H8V8zm15 13v10h11c5 0 8-2 8-5s-3-5-8-5H23z"/>
+    <path d="M62 42l14-3c2 5 6 7 12 7 5 0 8-2 8-4 0-3-4-4-12-6-13-3-20-7-20-15 0-9 9-15 23-15 13 0 22 5 25 14l-14 3c-2-4-6-6-11-6-5 0-7 1-7 4 0 2 4 3 11 5 13 3 21 7 21 16 0 10-9 16-25 16-14 0-23-5-25-16z"/>
+  </g>
+  <text x="8" y="62" fill="#ffffff" font-family="Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="2">SCHOOL</text>
+</svg>
